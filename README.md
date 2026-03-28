@@ -1,4 +1,4 @@
-# QuantumShield: Y2Q Network Kinematics Dataset
+# QuantHunt: Y2Q Network Kinematics Dataset
 
 This repository contains the empirical dataset, simulation logs, and Python analysis scripts used in the research paper: **"Quantifying the MTU Fragmentation Penalty of Post-Quantum TLS Handshakes in Legacy Financial Networks: An Empirical Kinematics Analysis"** by Saksham Shreyans and Akul Attre (RGIPT).
 
